@@ -3,8 +3,8 @@
 This project is a web-based length converter created using HTML, CSS, and JavaScript. It allows users to convert lengths between various units such as meters, kilometers, hectometers, and more.
 
 ## Demo
-
-![Screenshot of the Length Converter](‪Screenshot (212).png)
+![Screenshot of the Length Converter]
+![Screenshot (212)](https://github.com/Ark898/Length_Converter/assets/137332440/9f01eedb-fc5f-4291-83ee-a45c6cbb90b7)
 
 You can view a live demo of the project [here](https://ark898.github.io/Length_Converter/).
 
