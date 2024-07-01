@@ -4,7 +4,7 @@ This project is a web-based length converter created using HTML, CSS, and JavaSc
 
 ## Demo
 
-![Screenshot of the Length Converter](‪Length_Converter\Screenshot (212).png)
+![Screenshot of the Length Converter](‪Screenshot (212).png)
 
 You can view a live demo of the project [here](https://ark898.github.io/Length_Converter/).
 
